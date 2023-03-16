@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/scanUI.uss?fileID=7433441132597879392&amp;guid=12e2c90ab29cd476fa5310b2e3d23022&amp;type=3#scanUI" />
+    <ui:VisualElement name="MenuContainer" style="width: 100%; height: 100%; background-image: url(&apos;project://database/Assets/UI/UIAssets/gradient_light.png?fileID=2800000&amp;guid=e57f38bbf1af047bda01bd165652143c&amp;type=3#gradient_light&apos;); align-items: center; justify-content: space-around; padding-top: 104px; padding-bottom: 104px;">
+        <ui:Label text="Women* Room" display-tooltip-when-elided="true" style="-unity-font-definition: url(&apos;project://database/Assets/UI/Charm-Regular%20SDF.asset?fileID=11400000&amp;guid=51ee623246ae74a42a427bd504346020&amp;type=2#Charm-Regular SDF&apos;); font-size: 28px; -unity-text-align: upper-center; color: rgb(229, 215, 181);" />
+        <ui:Button text="Scan Statue" display-tooltip-when-elided="true" name="ScanStatue" class="customButton" />
+        <ui:Button text="Map" display-tooltip-when-elided="true" name="Map" class="customButton" />
+        <ui:Button text="Explored" display-tooltip-when-elided="true" name="Explored" class="customButton" />
+    </ui:VisualElement>
+</ui:UXML>

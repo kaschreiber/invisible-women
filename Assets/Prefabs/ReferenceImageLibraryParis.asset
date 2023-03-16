@@ -1,0 +1,469 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibraryParis
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5022551761245249197
+  m_GuidHigh: 14191027279789442696
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4730083877417905369
+      m_GuidHigh: 15915055076187214485
+    m_SerializedTextureGuid:
+      m_GuidLow: 8379184257400170696
+      m_GuidHigh: 8410660318652819544
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0353
+    m_Texture: {fileID: 2800000, guid: f1e1e8c8d7af74485868c68bffaab874, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4795336498161847294
+      m_GuidHigh: 2141816630944042631
+    m_SerializedTextureGuid:
+      m_GuidLow: 7226887681558274422
+      m_GuidHigh: 2482927762696647019
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0354
+    m_Texture: {fileID: 2800000, guid: 82ed6176100e644b6b317d22a5217522, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4937883192659799492
+      m_GuidHigh: 5742468537711655577
+    m_SerializedTextureGuid:
+      m_GuidLow: 17611927919305698142
+      m_GuidHigh: 16752943408292985833
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0355
+    m_Texture: {fileID: 2800000, guid: 70002b5e2321f46ae97b86d944697ee8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5458692717577985053
+      m_GuidHigh: 6248925316232867745
+    m_SerializedTextureGuid:
+      m_GuidLow: 10676999252750608167
+      m_GuidHigh: 1916443713558802840
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0356
+    m_Texture: {fileID: 2800000, guid: 4f4fa7275240942c98f1b35a6793981a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4906291922028589047
+      m_GuidHigh: 9215113605261975231
+    m_SerializedTextureGuid:
+      m_GuidLow: 11842151712644395374
+      m_GuidHigh: 5250490226034234600
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0357
+    m_Texture: {fileID: 2800000, guid: 8073f16ec63da457e8546ed30a7ddd48, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4712496285680444370
+      m_GuidHigh: 7588610060233528747
+    m_SerializedTextureGuid:
+      m_GuidLow: 3777589111806880162
+      m_GuidHigh: 3249918398136135144
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0358
+    m_Texture: {fileID: 2800000, guid: 5ca1e9a2b148346ce82de97590071a2d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5319958897436592183
+      m_GuidHigh: 7295122718121532083
+    m_SerializedTextureGuid:
+      m_GuidLow: 8364845589245283453
+      m_GuidHigh: 5397602708449232315
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0359
+    m_Texture: {fileID: 2800000, guid: 9bf54c7de6be7415bb85cdcb1023e84a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5399940987919780783
+      m_GuidHigh: 10660586145855976614
+    m_SerializedTextureGuid:
+      m_GuidLow: 3776934502332984994
+      m_GuidHigh: 13202139900254780394
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0360
+    m_Texture: {fileID: 2800000, guid: 37796ea25deb346aea7bb2954a6c37b7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5028997048941668948
+      m_GuidHigh: 17102664257074446513
+    m_SerializedTextureGuid:
+      m_GuidLow: 334046702425864212
+      m_GuidHigh: 538209993428698489
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0361
+    m_Texture: {fileID: 2800000, guid: bc7bf814c5b404a27905e230231b7807, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5430028659385952703
+      m_GuidHigh: 9947809886739945111
+    m_SerializedTextureGuid:
+      m_GuidLow: 14155284238176877228
+      m_GuidHigh: 14659624174166429929
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0362
+    m_Texture: {fileID: 2800000, guid: 4737faacac04c471e950eb31847271cb, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4785199317264800787
+      m_GuidHigh: 2186415941720441271
+    m_SerializedTextureGuid:
+      m_GuidLow: 2659334712752782019
+      m_GuidHigh: 13201615069693675467
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0363
+    m_Texture: {fileID: 2800000, guid: dc7ebac3dad424e7cb0789f2f58e35b7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4850342785308285547
+      m_GuidHigh: 9952026671262991515
+    m_SerializedTextureGuid:
+      m_GuidLow: 3793445388674982437
+      m_GuidHigh: 3066361047375840888
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0364
+    m_Texture: {fileID: 2800000, guid: 82d0e225067b34a57886ee5520e78d2a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5328111511381922309
+      m_GuidHigh: 12551813987607438979
+    m_SerializedTextureGuid:
+      m_GuidLow: 11824529165960146012
+      m_GuidHigh: 6186048644919670441
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0365
+    m_Texture: {fileID: 2800000, guid: 9d4cec5c2aa0a419a936b9ab7742d955, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5727166134023728136
+      m_GuidHigh: 16714317098069764009
+    m_SerializedTextureGuid:
+      m_GuidLow: 16458501932445008969
+      m_GuidHigh: 16603607212668179193
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0366
+    m_Texture: {fileID: 2800000, guid: 82770449584ee468f952334dcadc6be6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5004213829119339237
+      m_GuidHigh: 10668741423230558110
+    m_SerializedTextureGuid:
+      m_GuidLow: 8421630805385185162
+      m_GuidHigh: 16525647972605765050
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0367
+    m_Texture: {fileID: 2800000, guid: 0878878aa49974dfba25524246e556e5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5111193084114452702
+      m_GuidHigh: 3533769898798830258
+    m_SerializedTextureGuid:
+      m_GuidLow: 2605940692184405604
+      m_GuidHigh: 16853863691651589691
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0368
+    m_Texture: {fileID: 2800000, guid: af6316642940242a3b26bf61bbf3e4e9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5397309614068474979
+      m_GuidHigh: 16273360687468315544
+    m_SerializedTextureGuid:
+      m_GuidLow: 2653221380121422093
+      m_GuidHigh: 8640042959451228985
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0369
+    m_Texture: {fileID: 2800000, guid: b09be90d22c924d2398b34724b99e777, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5728644315203695948
+      m_GuidHigh: 7163331614193332643
+    m_SerializedTextureGuid:
+      m_GuidLow: 7206682223079849250
+      m_GuidHigh: 16821085399863202377
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0370
+    m_Texture: {fileID: 2800000, guid: 9bcbfd22474c640349125b9b0c8070e9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5502631434516719874
+      m_GuidHigh: 3209027992862557103
+    m_SerializedTextureGuid:
+      m_GuidLow: 355835880515165368
+      m_GuidHigh: 3361837282767880955
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0371
+    m_Texture: {fileID: 2800000, guid: 1871dcb82ed904f0fb420b6832a5a72e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5657258257189941460
+      m_GuidHigh: 15322204946534862464
+    m_SerializedTextureGuid:
+      m_GuidLow: 2625990495623097538
+      m_GuidHigh: 1545375260449489498
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0372
+    m_Texture: {fileID: 2800000, guid: 532aacc2647124715ac2c4939c467215, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5384734092757737471
+      m_GuidHigh: 16190666076681040042
+    m_SerializedTextureGuid:
+      m_GuidLow: 11866418214131582473
+      m_GuidHigh: 7503418992535617240
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0373
+    m_Texture: {fileID: 2800000, guid: a989c609fc7ea4add83e01a3d17f2168, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5097932513641764143
+      m_GuidHigh: 12603172462312458141
+    m_SerializedTextureGuid:
+      m_GuidLow: 13021250081296936637
+      m_GuidHigh: 14724389534239977546
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0374
+    m_Texture: {fileID: 2800000, guid: 9b3aeebdc5f5b4b44a70daaa448a57cc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4952866118147268190
+      m_GuidHigh: 401790161045543568
+    m_SerializedTextureGuid:
+      m_GuidLow: 7212541441836350999
+      m_GuidHigh: 18260196658046117609
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0375
+    m_Texture: {fileID: 2800000, guid: 48707e17183a6418e9269d231d4069fd, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5515694661923417135
+      m_GuidHigh: 1950825441094646441
+    m_SerializedTextureGuid:
+      m_GuidLow: 9573481411726460756
+      m_GuidHigh: 7734356674863228553
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0376
+    m_Texture: {fileID: 2800000, guid: 19c2c754d69f84db89e664db6af4556b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5219797399351496473
+      m_GuidHigh: 2158179710237080496
+    m_SerializedTextureGuid:
+      m_GuidLow: 8384355782276757445
+      m_GuidHigh: 6176487617380113161
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0377
+    m_Texture: {fileID: 2800000, guid: 691937c53729745b095b8a79c34ab755, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5235103583584635581
+      m_GuidHigh: 6855499201356212608
+    m_SerializedTextureGuid:
+      m_GuidLow: 11837884201663112419
+      m_GuidHigh: 9109155424959559771
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0378
+    m_Texture: {fileID: 2800000, guid: 2c56a4e39cf6a4485b7889bc98386a7e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5485414367555671779
+      m_GuidHigh: 4725779207613522833
+    m_SerializedTextureGuid:
+      m_GuidLow: 14149225424204489191
+      m_GuidHigh: 11014260093696993720
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0379
+    m_Texture: {fileID: 2800000, guid: b8a261e7258ec45cb8e991fc3283da98, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5387844152904445659
+      m_GuidHigh: 13134550419558645127
+    m_SerializedTextureGuid:
+      m_GuidLow: 12971521753796246534
+      m_GuidHigh: 14943791514481245784
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0380
+    m_Texture: {fileID: 2800000, guid: 1b46fc061a4fb40458be26f2340363cf, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5505089278760421796
+      m_GuidHigh: 8124041859156364178
+    m_SerializedTextureGuid:
+      m_GuidLow: 323164824493602983
+      m_GuidHigh: 15692590002797073225
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0381
+    m_Texture: {fileID: 2800000, guid: 17d7b8a71cb2047c49d390f27647c7d9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5274008128589598698
+      m_GuidHigh: 3037143886407073672
+    m_SerializedTextureGuid:
+      m_GuidLow: 12976002030956182067
+      m_GuidHigh: 16652158006926633576
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0382
+    m_Texture: {fileID: 2800000, guid: ebe3fa330518b41468ea89fa7a5918e7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4791293317836240283
+      m_GuidHigh: 3303629805825586599
+    m_SerializedTextureGuid:
+      m_GuidLow: 10677613931665953927
+      m_GuidHigh: 7282901003409886315
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0383
+    m_Texture: {fileID: 2800000, guid: 65b61487814c942e6b0c954ae00f1265, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5010995808312533154
+      m_GuidHigh: 7055892356641400240
+    m_SerializedTextureGuid:
+      m_GuidLow: 15323734782190279200
+      m_GuidHigh: 15238324219253762986
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0384
+    m_Texture: {fileID: 2800000, guid: 84bfda20d798d4a8aa2bda2c246779d3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5458693356796616160
+      m_GuidHigh: 12478111730227563929
+    m_SerializedTextureGuid:
+      m_GuidLow: 9538907677024803863
+      m_GuidHigh: 17142183454501667531
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0385
+    m_Texture: {fileID: 2800000, guid: 324f5c1701fe8461cb8226580745e5ed, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5663274507465674696
+      m_GuidHigh: 4862345126485104554
+    m_SerializedTextureGuid:
+      m_GuidLow: 2626600001130945636
+      m_GuidHigh: 4623797799193151035
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0386
+    m_Texture: {fileID: 2800000, guid: e2735c648ec824733b0624b699072b40, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4724158697539274955
+      m_GuidHigh: 7005524216433404295
+    m_SerializedTextureGuid:
+      m_GuidLow: 10673499082790661406
+      m_GuidHigh: 5282960208353636554
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0387
+    m_Texture: {fileID: 2800000, guid: 7c31ed1ee2dd941fca3071b551d85049, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4779791003559941041
+      m_GuidHigh: 10136378364996295042
+    m_SerializedTextureGuid:
+      m_GuidLow: 15326649506361458320
+      m_GuidHigh: 17267399440448370073
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0388
+    m_Texture: {fileID: 2800000, guid: 9f973e903285d4b39935b4f24d20a2ef, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5516973206992377169
+      m_GuidHigh: 8828722651799882624
+    m_SerializedTextureGuid:
+      m_GuidLow: 8371886168227552253
+      m_GuidHigh: 7349038042496642120
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0389
+    m_Texture: {fileID: 2800000, guid: 25359bfdea1d742e482cd8ab2907fd65, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4987094023838720188
+      m_GuidHigh: 2406873106420095926
+    m_SerializedTextureGuid:
+      m_GuidLow: 1504259782032400790
+      m_GuidHigh: 11018637190057318251
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0390
+    m_Texture: {fileID: 2800000, guid: 45f2a196344d14e06b5746262510ea98, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5279463079956339188
+      m_GuidHigh: 5353074164069995929
+    m_SerializedTextureGuid:
+      m_GuidLow: 10690509236509386826
+      m_GuidHigh: 10754158004430451864
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0391
+    m_Texture: {fileID: 2800000, guid: 862ca84a5182945c98348020ba713e95, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4693499361508409789
+      m_GuidHigh: 14924790909631435397
+    m_SerializedTextureGuid:
+      m_GuidLow: 10667109701197059043
+      m_GuidHigh: 2668955575858451899
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0392
+    m_Texture: {fileID: 2800000, guid: a7f953e32fc19409bb55579cf4080a25, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5385212917975696949
+      m_GuidHigh: 16548951190957388209
+    m_SerializedTextureGuid:
+      m_GuidLow: 11857853342828887960
+      m_GuidHigh: 7260054997216426840
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0393
+    m_Texture: {fileID: 2800000, guid: 29fe7f988ecaa48f587be2f68de5c064, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4628150990564010802
+      m_GuidHigh: 4888998328932847037
+    m_SerializedTextureGuid:
+      m_GuidLow: 3762542675903861565
+      m_GuidHigh: 16496284010667019435
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0394
+    m_Texture: {fileID: 2800000, guid: 017f533d3ca13437ab8cc319e892eee4, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4654938546949331493
+      m_GuidHigh: 2206067777594863508
+    m_SerializedTextureGuid:
+      m_GuidLow: 6074752964094184392
+      m_GuidHigh: 17045454800368030041
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0395
+    m_Texture: {fileID: 2800000, guid: ab15cbc8dba2544d59d1e98ad49e8dec, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5469132861919588267
+      m_GuidHigh: 16883698019742314398
+    m_SerializedTextureGuid:
+      m_GuidLow: 4959268294985543065
+      m_GuidHigh: 4032974951372758152
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0396
+    m_Texture: {fileID: 2800000, guid: 2c786d99dc3d44d2881c9fc45901f837, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5465520161762044830
+      m_GuidHigh: 2400329449125027716
+    m_SerializedTextureGuid:
+      m_GuidLow: 17630754420604738395
+      m_GuidHigh: 16026281037272544922
+    m_Size: {x: 3, y: 4}
+    m_SpecifySize: 1
+    m_Name: IMG_0397
+    m_Texture: {fileID: 2800000, guid: da4b1b5b05bbf4ad9a763549b1c968de, type: 3}
